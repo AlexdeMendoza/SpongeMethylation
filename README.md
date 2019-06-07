@@ -2,10 +2,10 @@
 
 Files and code used for de Mendoza et al 2019 "Convergent evolution of a vertebrate-like methylome in a marine sponge".
 
-##Code
+**Code**
 * Master_Script_deMendozaNEE.R
 
-##Files
+**Files**
 * `Aqu2.1.genes.bed.gz`: *Amphimedon queenslandica* Aqu2.1 gene annotation.
 * `Amphimedon_queenslandica.NNNNstrech.bed.gz`: Regions encompassing Ns (gaps) in the *Amphimedon* genome assembly.
 * `bacterial_contigs`: list of *Amphimedon* assembly contigs from bacterial origin.
