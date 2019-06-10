@@ -6,6 +6,7 @@ Files and code used for de Mendoza et al 2019 "Convergent evolution of a vertebr
 * Master_Script_deMendozaNEE.R
 
 **Files**
+* `SequenceAlignments.zip`: Amino acid sequence alignments of DNMT1, DNMT3, TET and UHRF1.
 * `Aqu2.1.genes.bed.gz`: *Amphimedon queenslandica* Aqu2.1 gene annotation.
 * `Amphimedon_queenslandica.NNNNstrech.bed.gz`: Regions encompassing Ns (gaps) in the *Amphimedon* genome assembly.
 * `bacterial_contigs`: list of *Amphimedon* assembly contigs from bacterial origin.
