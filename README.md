@@ -1,6 +1,7 @@
 # SpongeMethylation
 
-Files and code used for de Mendoza et al 2019 "Convergent evolution of a vertebrate-like methylome in a marine sponge". *Nature Ecology and Evolution* 2019 Oct;3(10):1464-1473. doi: 10.1038/s41559-019-0983-2
+Files and code used for de Mendoza et al 2019 "Convergent evolution of a vertebrate-like methylome in a marine sponge". **Nature Ecology and Evolution** 2019 Oct;3(10):1464-1473. doi: 10.1038/s41559-019-0983-2
+
 Free access to the manuscript: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31558833/.
 
 **Code**
